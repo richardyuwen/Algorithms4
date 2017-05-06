@@ -1,13 +1,11 @@
-package com.alg.ch5.p1;
+package com.alg4.ch5.p1;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
- * Created by i305765 on 20/04/2017.
+ * Created by i305765 on 22/04/2017.
  */
-public class MSDTest {
+public class Quick3StringTest {
     @Test
     public void sort() throws Exception {
         String[] a = new String[]{
@@ -25,11 +23,10 @@ public class MSDTest {
                 "2RLA629",
                 "3ATW723",
         };
-        MSD.sort(a);
+        Quick3String.sort(a);
 
         for (String s : a) {
             System.out.println(s);
         }
     }
-
 }

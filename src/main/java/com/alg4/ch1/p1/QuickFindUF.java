@@ -1,4 +1,4 @@
-package com.alg.ch1.p1;
+package com.alg4.ch1.p1;
 
 /**
  * Created by i305765 on 13/04/2017.

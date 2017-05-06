@@ -1,12 +1,9 @@
-package com.alg.ch1.p1;
+package com.alg4.ch1.p1;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileReader;
-import java.io.InterruptedIOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 

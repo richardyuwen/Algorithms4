@@ -1,9 +1,8 @@
-package com.alg.ch5.p1;
+package com.alg4.ch5.p1;
 
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import static org.junit.Assert.*;
 
 /**
  * Created by i305765 on 05/05/2017.

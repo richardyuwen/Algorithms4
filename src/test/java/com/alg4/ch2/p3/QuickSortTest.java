@@ -1,8 +1,6 @@
-package com.alg.ch2.p3;
+package com.alg4.ch2.p3;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by i305765 on 22/04/2017.
